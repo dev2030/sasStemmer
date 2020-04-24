@@ -3,6 +3,6 @@ clean(txt) {
     t = txt
     # finish and return
     # this is the last mile
-    # until now, so far
+    # until now, so far.
     return t
 }
